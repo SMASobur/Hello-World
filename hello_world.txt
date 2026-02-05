@@ -1,1 +1,30 @@
 Edited by Sikdar for Task 2.
+
+## Task 2 – Clone, Rename, and Re-Publish
+
+### git clone <url>
+Clones an existing remote repository to the local machine.
+
+### git remote -v
+Displays the current remote repository URLs.
+
+### git remote remove origin
+Removes the existing remote connection.
+
+### git remote add origin <url>
+Links the local repository to a new remote GitHub repository.
+
+### git add .
+Stages all modified files for commit.
+
+### git commit -m "message"
+Commits the changes with a descriptive message.
+
+### git push -u origin main
+Pushes the local repository to the new remote GitHub repository.
+
+
+### git branch
+Lists all local branches in the repository.
+The branch with * indicates the current branch.
+  
