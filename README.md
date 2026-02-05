@@ -150,6 +150,8 @@ Markdown is a simple, flexible, and powerful language for creating documents and
 - `Inline Code:` `` `Code` ``
 - [Hyperlink Example](https://example.com)
 
+---
+
 ## **Task 2: Clone, Rename, and Re-Publish**
 
 ### git clone <url>
@@ -184,5 +186,7 @@ Pushes the local repository to the new remote GitHub repository.
 
 Lists all local branches in the repository.
 The branch with \* indicates the current branch.
+
+---
 
 _Thanks for the chacking_
